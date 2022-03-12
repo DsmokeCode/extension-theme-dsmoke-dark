@@ -1,0 +1,32 @@
+{
+	"name": "dsmoke-dark-theme",
+	"displayName": "Dsmoke Dark Theme",
+	"description": "Theme dark style",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dsmoke Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dsmoke Dark-color-theme.json"
+			}
+		]
+	},
+	"icon": "icons/theme-dsmoke-dark.ico",
+	"author": {
+		"name": "Arnold Ramos C",
+		"email": "aramosc.16@gmail.com",
+		"url": "https://github.com/arnoldrc/"
+	},
+	"repository": {
+		"url": "https://github.com/arnoldrc/extension-theme-dsmoke-dark.git",
+		"type": "git"
+	},
+	"publisher": "theme-dsmoke-dark"
+}
