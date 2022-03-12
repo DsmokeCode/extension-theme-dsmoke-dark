@@ -28,5 +28,11 @@
 		"url": "https://github.com/arnoldrc/extension-theme-dsmoke-dark.git",
 		"type": "git"
 	},
-	"publisher": "theme-dsmoke-dark"
+	"publisher": "theme-dsmoke-dark",
+	"__metadata": {
+		"id": "7acfce74-8a58-47cd-8826-7fb17ac3b434",
+		"publisherDisplayName": "ArnoldRC",
+		"publisherId": "4469c946-97fb-45c6-8102-a2f53b2431ec",
+		"isPreReleaseVersion": false
+	}
 }
