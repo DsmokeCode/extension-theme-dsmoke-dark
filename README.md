@@ -1,18 +1,13 @@
-# README
+# Dsmoke-Dark
 
-## Bienvenidos a mi tema"dsmoke-theme"
+## _Bienvenidos_
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+El tema consta de colores oscuros con detalles en colores llamativos para poder tener una mayor atencion, destacando el color rojo como color princial.
 
--   Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
--   Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
--   Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
+## Colores Dark
 
 ![Image text](./icons/code.png)
 
--   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
--   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+-   [Visual Studio Code's Extension](https://marketplace.visualstudio.com/publishers/theme-dsmoke-dark)
 
-**Enjoy!**
+**Gracias**
