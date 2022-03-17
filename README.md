@@ -6,7 +6,7 @@ El tema consta de colores oscuros con detalles en colores llamativos para poder 
 
 ## Colores Dark
 
-![Image text](icons/code.png)
+![Image text](https://github.com/arnoldrc/extension-theme-dsmoke-dark/blob/master/icons/code.png?raw=true)
 
 -   [Visual Studio Code's Extension](https://marketplace.visualstudio.com/publishers/theme-dsmoke-dark)
 
