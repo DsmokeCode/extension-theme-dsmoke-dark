@@ -1,8 +1,8 @@
 {
-	"name": "Dsmoke Dark",
+	"name": "Dsmoke Dark Full",
 	"type": "dark",
 	"colors": {
-		"activityBar.background": "#282828",
+		"activityBar.background": "#27272A",
 		"activityBar.border": "#363636",
 		"activityBar.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#ff0000",
@@ -12,16 +12,16 @@
 		"button.background": "#ff0000",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#282828",
-		"debugExceptionWidget.background": "#282828",
+		"debugExceptionWidget.background": "#16ac48",
 		"debugExceptionWidget.border": "#191e2a",
-		"debugToolBar.background": "#121212",
+		"debugToolBar.background": "#282828",
 		"diffEditor.insertedTextBackground": "#2c440a44",
 		"diffEditor.removedTextBackground": "#f29e7444",
-		"dropdown.background": "#121212",
+		"dropdown.background": "#0f0f0f",
 		"dropdown.listBackground": "#121212",
 		"dropdown.border": "#363636",
 		"dropdown.foreground": "#ffffff",
-		"editor.background": "#121212",
+		"editor.background": "#0f0f0f",
 		"editor.findMatchBackground": "#ff000090",
 		"editor.findMatchBorder": "#ff000090",
 		"editor.findMatchHighlightBackground": "#ff000044",
@@ -57,7 +57,7 @@
 		"editorIndentGuide.background": "#363636",
 		"editorLineNumber.activeForeground": "#fff",
 		"editorLineNumber.foreground": "#ffffff35",
-		//"editorLink.activeForeground": "#ffaa00",
+		"editorLink.activeForeground": "#ff0000",
 		"editorMarkerNavigation.background": "#00e73a",
 		"editorOverviewRuler.addedForeground": "#a6cc7099",
 		"editorOverviewRuler.border": "#909090",
@@ -80,7 +80,7 @@
 		"foreground": "#fff",
 		"gitDecoration.conflictingResourceForeground": "#ff0000",
 		"gitDecoration.deletedResourceForeground": "#f27983b3",
-		"gitDecoration.ignoredResourceForeground": "#484f5e",
+		"gitDecoration.ignoredResourceForeground": "#485e4f",
 		"gitDecoration.modifiedResourceForeground": "#77a8d9b3",
 		"gitDecoration.submoduleResourceForeground": "#d4bfffb3",
 		"gitDecoration.untrackedResourceForeground": "#a6cc70b3",
@@ -96,13 +96,13 @@
 		"inputValidation.warningBackground": "#1f1f1f",
 		"inputValidation.warningBorder": "#ffd580",
 		"list.activeSelectionBackground": "#ff000044",
-		"list.activeSelectionForeground": "#fff",
+		"list.activeSelectionForeground": "#ffffff",
 		"list.focusBackground": "#ff000044",
 		"list.focusForeground": "#fff",
 		"list.highlightForeground": "#ff000044",
 		"list.hoverBackground": "#ff000044",
 		"list.hoverForeground": "#fff",
-		"list.inactiveSelectionBackground": "#121212",
+		"list.inactiveSelectionBackground": "#ff000022",
 		"list.inactiveSelectionForeground": "#fff",
 		"list.invalidItemForeground": "#fffb00",
 		"panel.background": "#1f1f1f",
@@ -125,7 +125,7 @@
 		"scrollbar.shadow": "#121212",
 		"scrollbarSlider.activeBackground": "#ff0000",
 		"scrollbarSlider.background": "#282828",
-		"scrollbarSlider.hoverBackground": "#1f1f1f",
+		"scrollbarSlider.hoverBackground": "#8b1b1b",
 		"selection.background": "#df1414fd",
 		"settings.headerForeground": "#fff",
 		"settings.modifiedItemIndicator": "#ff0000",
@@ -242,6 +242,24 @@
 			],
 			"settings": {
 				"foreground": "#ffffffee"
+			}
+		},
+		{
+			"name": "meta.object-literal.key",
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#5CCFE6"
+			}
+		},
+		{
+			"name": "meta.method.declaration",
+			"scope": [
+				"entity.name.function"
+			],
+			"settings": {
+				"foreground": "#15ff00ee"
 			}
 		},
 		{
@@ -374,7 +392,7 @@
 				"meta.parameter"
 			],
 			"settings": {
-				"foreground": "#d4bfffee"
+				"foreground": "#bc9bffee"
 			}
 		},
 		{
