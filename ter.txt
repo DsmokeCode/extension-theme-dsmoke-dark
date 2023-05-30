@@ -1,0 +1,4 @@
+ npm i -g vsce
+vsce login theme-dsmoke-dark
+vsce package
+vsce publish
