@@ -245,6 +245,24 @@
 			}
 		},
 		{
+			"name": "meta.object-literal.key",
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#5CCFE6"
+			}
+		},
+		{
+			"name": "meta.method.declaration",
+			"scope": [
+				"entity.name.function"
+			],
+			"settings": {
+				"foreground": "#15ff00ee"
+			}
+		},
+		{
 			"name": "Member Variable",
 			"scope": [
 				"variable.member"
@@ -733,6 +751,33 @@
 			],
 			"settings": {
 				"foreground": "#5c6773"
+			}
+		},
+		{
+			"name": "Directiva flow control angular",
+			"scope": [
+				"keyword.control.block"
+			],
+			"settings": {
+				"foreground": "#ffffffee"
+			}
+		},
+		{
+			"name": "Directiva flow control angular",
+			"scope": [
+				"keyword.control.block.kind.ng"
+			],
+			"settings": {
+				"foreground": "#DB49FFEE"
+			}
+		},
+		{
+			"name": "Directiva flow control angular",
+			"scope": [
+				"control.block.expression.ng",
+			],
+			"settings": {
+				"foreground": "#DB49FFEE"
 			}
 		},
 		{

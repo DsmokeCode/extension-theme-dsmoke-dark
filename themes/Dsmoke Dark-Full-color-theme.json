@@ -4,7 +4,7 @@
 	"colors": {
 		"activityBar.background": "#27272A",
 		"activityBar.border": "#363636",
-		"activityBar.foreground": "#FFFFFF",
+		"activityBar.foreground": "#ffffff",
 		"activityBarBadge.background": "#ff0000",
 		"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#ff0000",
@@ -154,24 +154,24 @@
 		"tab.unfocusedActiveBorderTop": "#909090",
 		"tab.unfocusedActiveForeground": "#ffffff35",
 		"tab.unfocusedInactiveForeground": "#ffffff35",
-		"terminal.ansiBlack": "#191e2a",
+		"terminal.ansiBlack": "#1f1f1f",
 		"terminal.ansiBlue": "#6dcbfa",
 		"terminal.ansiBrightBlack": "#686868",
 		"terminal.ansiBrightBlue": "#73d0ff",
 		"terminal.ansiBrightCyan": "#95e6cb",
-		"terminal.ansiBrightGreen": "#bae67e",
+		"terminal.ansiBrightGreen": "#3ae374",
 		"terminal.ansiBrightMagenta": "#d4bfff",
-		"terminal.ansiBrightRed": "#f28779",
+		"terminal.ansiBrightRed": "#ff3838",
 		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiBrightYellow": "#ffd580",
 		"terminal.ansiCyan": "#90e1c6",
 		"terminal.ansiGreen": "#a6cc70",
 		"terminal.ansiMagenta": "#cfbafa",
-		"terminal.ansiRed": "#ed8274",
-		"terminal.ansiWhite": "#c7c7c7",
+		"terminal.ansiRed": "#ff3838",
+		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiYellow": "#fad07b",
 		"terminal.background": "#1f1f1f",
-		"terminal.foreground": "#ffffff",
+		"terminal.foreground": "#cbccc6",
 		"textBlockQuote.background": "#1f1f1f",
 		"textLink.activeForeground": "#fff",
 		"textLink.foreground": "#ff0000",
@@ -751,6 +751,33 @@
 			],
 			"settings": {
 				"foreground": "#5c6773"
+			}
+		},
+		{
+			"name": "Directiva flow control angular",
+			"scope": [
+				"keyword.control.block"
+			],
+			"settings": {
+				"foreground": "#ffffffee"
+			}
+		},
+		{
+			"name": "Directiva flow control angular",
+			"scope": [
+				"keyword.control.block.kind.ng"
+			],
+			"settings": {
+				"foreground": "#DB49FFEE"
+			}
+		},
+		{
+			"name": "Directiva flow control angular",
+			"scope": [
+				"control.block.expression.ng",
+			],
+			"settings": {
+				"foreground": "#DB49FFEE"
 			}
 		},
 		{
