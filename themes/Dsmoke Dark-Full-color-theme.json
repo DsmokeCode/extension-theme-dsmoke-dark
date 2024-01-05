@@ -765,8 +765,7 @@
 		{
 			"name": "Directiva flow control angular",
 			"scope": [
-				"keyword.control.block.transition.ng",
-				"control.block.ng"
+				"keyword.control.block.transition.ng"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -789,6 +788,17 @@
 				"control.block.expression.ng",
 			],
 			"settings": {
+				"foreground": "#DB49FFEE"
+			}
+		},
+		{
+			"name": "Directiva flow control angular",
+			"scope": [
+				"punctuation.definition.block.ts",
+				"meta.brace.round.ts"
+			],
+			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#DB49FFEE"
 			}
 		},
